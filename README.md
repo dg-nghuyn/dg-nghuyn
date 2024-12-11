@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Duong Ngoc Huyen
-
+### 👋 Hi there, I'm Duong Ngoc Huyen
 - 🌱 I've been learning Information Security in PTIT for 2 years.
-- 📫 Follow me:
+- 🔭Email: huyendtn.b23at139@gmail.
+
+### 📫 Follow me:
   - [Facebook](https://www.facebook.com/dg.nghuyn/)
   - [Instagram](https://www.instagram.com/dg.nghuyn/)
   - [TikTok](https://www.tiktok.com/@dg.nghuyn)
-  - [GitHub](https://github.com/dg-nghuyn)
   
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
