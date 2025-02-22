@@ -5,7 +5,7 @@
 ### 📫 Follow me:
   - [Facebook](https://www.facebook.com/dg.nghuyn/)
   - [Instagram](https://www.instagram.com/dg_nghuyn/)
-  - [TikTok](https://www.tiktok.com/@dg.nghuyn)
+  - [TikTok](https://www.tiktok.com/@dg_nghuyn)
   
 <!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
